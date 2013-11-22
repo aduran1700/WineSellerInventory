@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package Sales;
+package ManageSales;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,9 +11,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import AccessPoint.AccessPointManager;
+import ManageItems.Item;
+import MangeDatabase.DBConnect;
 
-import wineseller.DBConnect;
-import wineseller.Item;
+
 
 /**
  *

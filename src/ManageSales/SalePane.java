@@ -1,4 +1,4 @@
-package Sales;
+package ManageSales;
 import javax.swing.JPanel;
 import java.awt.SystemColor;
 import javax.swing.border.EtchedBorder;
